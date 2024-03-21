@@ -8,3 +8,5 @@ Actualmente trabajo y estudio :)
 
 Te dejo mis redes
 
+## Hobbies
+- Dancing: ...
