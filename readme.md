@@ -8,3 +8,8 @@ Actualmente trabajo y estudio :)
 
 Te dejo mis redes
 
+## Languages
+- Spanish
+- English
+- Portuguese
+- Japanese
